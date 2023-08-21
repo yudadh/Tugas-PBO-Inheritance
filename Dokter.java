@@ -7,3 +7,4 @@ public class Dokter extends Profesi{
         System.out.println("Pekerjaan :" +pekerjaan);
     }
 }
+//menambahkan comment
